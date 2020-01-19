@@ -21,7 +21,8 @@
 
 ▲ 아이 관리 페이지로 각 보호자가 여러 아이를 관리할 수 있습니다.
 
-
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/59874084/72676048-09307280-3ad0-11ea-888c-a95ab0b2e670.png"></img>
 <img src="https://user-images.githubusercontent.com/59874084/72676049-0b92cc80-3ad0-11ea-9825-c663c05bac13.png"></img>
