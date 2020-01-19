@@ -17,4 +17,4 @@
 
 
 ### 실행화면
-1. 
+<img src="https://user-images.githubusercontent.com/59874084/72676006-8d362a80-3acf-11ea-9ec9-bad3c2c4d30c.png"> </img>
