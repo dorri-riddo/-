@@ -12,8 +12,9 @@
 
 ### 개발환경
 1. JSP/Servlet
-2. JDBC
-3. SQL
+2. HTML
+3. JDBC
+4. SQL
 
 
 ### 실행화면
