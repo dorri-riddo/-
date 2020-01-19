@@ -23,12 +23,12 @@
 
 <br>
 <br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/59874084/72676048-09307280-3ad0-11ea-888c-a95ab0b2e670.png"></img>
 <img src="https://user-images.githubusercontent.com/59874084/72676049-0b92cc80-3ad0-11ea-9825-c663c05bac13.png"></img>
 
-▲ 보호자는 아이에게 학습시키고 싶은 심볼을 드래그 앤 드롭을 활용하여 만들 수 있습니다.
-
+▲ 보호자는 아이에게 학습시키고 싶은 심볼을 드래그 앤 드롭을 활용하여 만들 수 있습니다.<br>
 심볼 검색은 총 세 가지로 카테고리(음식, 장소, 직업 등) 검색, 이름 검색, 마지막으로 기본적으로 제공하는 기본판이 있습니다.
 
 
