@@ -12,7 +12,7 @@
 
 ### 개발환경
 1. JSP/Servlet
-2. HTML
+2. HTML(Javascript 및 JQuery)
 3. JDBC
 4. SQL
 
