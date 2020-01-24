@@ -21,6 +21,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676006-8d362a80-3acf-11ea-9ec9-bad3c2c4d30c.png"></img>
 </p>
+
 #### 1. 아이 관리 페이지
  ▲ 아이 관리 페이지로 각 보호자가 여러 아이를 관리할 수 있습니다.
 
@@ -29,9 +30,16 @@
 <br>
 <br>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676048-09307280-3ad0-11ea-888c-a95ab0b2e670.png"></img>
+</p>
+
 #### 2. 학습판 만들기 페이지 (전체 실행 화면)
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676049-0b92cc80-3ad0-11ea-9825-c663c05bac13.png"></img>
+</p>
+
 #### 2. 학습판 만들기 페이지 (드래그 앤 드롭 실행 후)
 
  ▲ 보호자는 아이에게 학습시키고 싶은 심볼을 드래그 앤 드롭을 활용하여 만들 수 있습니다.<br>
@@ -41,7 +49,10 @@
 <br>
 <br>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676047-059ceb80-3ad0-11ea-9464-0fa294715a6c.png"></img>
+</p>
+
 #### 3. 학습 결과 페이지
 
  ▲ 구글 차트를 활용하여 보호자는 각 아이가 각 학습판 별로 학습결과가 어떤지 판별할 수 있습니다. <br>
@@ -51,11 +62,22 @@
 <br>
 <br>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676050-0df52680-3ad0-11ea-9410-7a0f429ed502.png"></img>
+</p>
+
 #### 4. 단어 맞추기 게임
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676051-0df52680-3ad0-11ea-9c4d-29a65d987061.png"></img>
+</p>
+
 #### 4. 그림 맞추기 게임
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676052-0e8dbd00-3ad0-11ea-9b39-fd3b5081c2d6.png"></img>
+</p>
+
 #### 4. 선긋기 게임
 
  ▲ 아이가 즐길 수 있는 게임은 총 세가지입니다. <br>
