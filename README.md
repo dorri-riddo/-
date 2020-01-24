@@ -18,9 +18,11 @@
 
 
 ### 실행화면
+<p align="center">
 <img src="https://user-images.githubusercontent.com/59874084/72676006-8d362a80-3acf-11ea-9ec9-bad3c2c4d30c.png"></img>
 #### 1. 아이 관리 페이지
  ▲ 아이 관리 페이지로 각 보호자가 여러 아이를 관리할 수 있습니다.
+ </p>
 
 <br>
 <br>
